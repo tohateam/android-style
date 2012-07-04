@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- =============== -->
+    <!--    Blue theme   -->
+    <!-- =============== -->
+    <style name="Theme.Blue" parent="@android:style/Theme">
+        <item name="textTitle">@style/blue_text_title</item>
+        <item name="button">@style/blue_button</item>
+        <item name="editText">@style/blue_edit_text</item>
+    </style>
+    
+    <!-- =============== -->
+    <!--   Green theme   -->
+    <!-- =============== -->
+    <style name="Theme.Green" parent="@android:style/Theme">
+        <item name="textTitle">@style/green_text_title</item>
+        <item name="button">@style/green_button</item>
+        <item name="editText">@style/green_edit_text</item>
+    </style>
+
+</resources>
