@@ -3,6 +3,9 @@
  */
 package com.lunevich.androidstyle;
 
+import com.lunevich.androidstyle.activity.BlueThemeActivity;
+import com.lunevich.androidstyle.activity.GreenThemeActivity;
+
 import android.app.Activity;
 import android.content.Intent;
 import android.os.Bundle;
@@ -32,11 +35,11 @@ public class AndroidStyleActivity extends Activity implements OnClickListener {
 	public void onClick(View v) {
 		switch (v.getId()) {
 		case R.id.btnBlueStyle:
-			Intent blueIntent = new Intent(AndroidStyleActivity.this, BlueStyleActivity.class);
+			Intent blueIntent = new Intent(AndroidStyleActivity.this, BlueThemeActivity.class);
 			startActivity(blueIntent);
 			break;
 		case R.id.btnGreenStyle:
-			Intent greenIntent = new Intent(AndroidStyleActivity.this, GreenStyleActivity.class);
+			Intent greenIntent = new Intent(AndroidStyleActivity.this, GreenThemeActivity.class);
 			startActivity(greenIntent);
 			break;
 		}

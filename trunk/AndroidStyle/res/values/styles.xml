@@ -18,16 +18,18 @@
     
     <!-- blue button style -->
     <style name="blue_button">
-		<item name="android:background">@drawable/blue_button</item>-->
-		<item name="android:layout_margin">3sp</item>
-		<item name="android:paddingTop">11sp</item>
-		<item name="android:paddingBottom">11sp</item>
+		<item name="android:background">@drawable/blue_button</item>
 	</style>
 	
     <!-- blue edit text style -->
     <style name="blue_edit_text">
-		<item name="android:background">@drawable/blue_edit_text</item>-->
+		<item name="android:background">@drawable/blue_edit_text</item>
 	</style>
+	
+    <!-- blue list view style -->
+    <style name="blue_list_view">
+        <item name="android:listSelector">@drawable/blue_list_view_item</item>
+    </style>
     
     <!-- =============== -->
     <!--  Green styles   -->
@@ -46,15 +48,17 @@
     
 	<!-- green button style -->
 	<style name="green_button">
-		<item name="android:background">@drawable/green_button</item>-->
-		<item name="android:layout_margin">3sp</item>
-		<item name="android:paddingTop">11sp</item>
-		<item name="android:paddingBottom">11sp</item>
+		<item name="android:background">@drawable/green_button</item>
 	</style>
 	
 	<!-- green edit text style -->
     <style name="green_edit_text">
-		<item name="android:background">@drawable/green_edit_text</item>-->
+		<item name="android:background">@drawable/green_edit_text</item>
 	</style>
+	
+    <!-- green list view style -->
+    <style name="green_list_view">
+        <item name="android:listSelector">@drawable/green_list_view_item</item>
+    </style>
 	
 </resources>
