@@ -4,5 +4,6 @@
     <attr name="textTitle" format="reference" />
     <attr name="button" format="reference" />
     <attr name="editText" format="reference" />
+    <attr name="listView" format="reference" />
 
 </resources>

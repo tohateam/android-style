@@ -8,6 +8,7 @@
         <item name="textTitle">@style/blue_text_title</item>
         <item name="button">@style/blue_button</item>
         <item name="editText">@style/blue_edit_text</item>
+        <item name="listView">@style/blue_list_view</item>
     </style>
     
     <!-- =============== -->
@@ -17,6 +18,7 @@
         <item name="textTitle">@style/green_text_title</item>
         <item name="button">@style/green_button</item>
         <item name="editText">@style/green_edit_text</item>
+        <item name="listView">@style/green_list_view</item>
     </style>
 
 </resources>

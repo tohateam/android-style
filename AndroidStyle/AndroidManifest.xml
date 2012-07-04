@@ -18,8 +18,8 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".BlueStyleActivity" ></activity>
-        <activity android:name=".GreenStyleActivity" ></activity>
+        <activity android:name=".activity.BlueThemeActivity" ></activity>
+        <activity android:name=".activity.GreenThemeActivity" ></activity>
     </application>
 
 </manifest>
