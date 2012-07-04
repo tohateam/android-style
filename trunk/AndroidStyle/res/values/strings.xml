@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, AndroidStyleActivity!</string>
+    <string name="app_name">AndroidStyle</string>
+    
+    <!-- Main View Names -->
+    <string name="blue">Blue Style</string>
+    <string name="green">Green Style</string>
+    
+    <!-- Stylish View Names -->
+    <string name="btn">Button</string>
+    <string name="tv1">TV First</string>
+    <string name="tv2">TV Second</string>
+
+</resources>
