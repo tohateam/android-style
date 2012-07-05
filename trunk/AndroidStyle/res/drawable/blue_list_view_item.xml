@@ -18,32 +18,5 @@
             <padding android:bottom="10dp" android:left="10dp" android:right="10dp" android:top="10dp" />
         </shape>
     </item>
-    
-    <!-- touch down -->
-    <!-- <item android:state_pressed="true">
-        <shape android:shape="rectangle">
-            <solid android:color="#FFFFFF" />
-            <size android:width="1dip" />
-            <size android:height="1dip" />
-        </shape>
-    </item> -->
-    
-    <!-- selected -->
-    <!-- <item android:state_selected="true">
-        <shape android:shape="rectangle">
-            <solid android:color="#FF0000" />
-            <size android:width="1dip" />
-            <size android:height="1dip" />
-        </shape>
-    </item> -->
- 
-    <!-- normal -->
-    <!-- <item>
-        <shape android:shape="rectangle">
-            <solid android:color="#00FF00" />
-            <size android:width="1dip" />
-            <size android:height="1dip" />
-        </shape>
-    </item> -->
 
 </selector>

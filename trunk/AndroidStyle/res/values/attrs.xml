@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <attr name="textTitle" format="reference" />
-    <attr name="button" format="reference" />
-    <attr name="editText" format="reference" />
-    <attr name="listView" format="reference" />
+    <attr name="textView1" format="reference" />
+    <attr name="textView2" format="reference" />
 
 </resources>
